@@ -17,3 +17,5 @@ function fun1() {
   
   block.style.borderRadius=rtl+'px ' +rtr +'px ' +rbr +'px '+rbl+'px ';
   }
+
+  //1
